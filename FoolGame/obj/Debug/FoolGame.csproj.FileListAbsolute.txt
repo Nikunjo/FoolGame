@@ -1,0 +1,9 @@
+C:\Users\Nikon\Desktop\My Assignment 1\FoolGame\FoolGame\bin\Debug\FoolGame.exe.config
+C:\Users\Nikon\Desktop\My Assignment 1\FoolGame\FoolGame\bin\Debug\FoolGame.exe
+C:\Users\Nikon\Desktop\My Assignment 1\FoolGame\FoolGame\bin\Debug\FoolGame.pdb
+C:\Users\Nikon\Desktop\My Assignment 1\FoolGame\FoolGame\obj\Debug\FoolGame.csprojResolveAssemblyReference.cache
+C:\Users\Nikon\Desktop\My Assignment 1\FoolGame\FoolGame\obj\Debug\FoolGame.Form1.resources
+C:\Users\Nikon\Desktop\My Assignment 1\FoolGame\FoolGame\obj\Debug\FoolGame.Properties.Resources.resources
+C:\Users\Nikon\Desktop\My Assignment 1\FoolGame\FoolGame\obj\Debug\FoolGame.csproj.GenerateResource.Cache
+C:\Users\Nikon\Desktop\My Assignment 1\FoolGame\FoolGame\obj\Debug\FoolGame.exe
+C:\Users\Nikon\Desktop\My Assignment 1\FoolGame\FoolGame\obj\Debug\FoolGame.pdb
